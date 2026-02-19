@@ -14,7 +14,7 @@ MCSMOTE is an oversampling method for imbalanced classification. It constructs a
 
 ### Core Algorithm
 ```
-TMMCSMOTE.R
+resamplerCls_MCSMOTE.R
 ```
 
 ### Applications Reported in the Article
